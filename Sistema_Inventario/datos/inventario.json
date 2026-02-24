@@ -1,0 +1,32 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "arroz",
+        "cantidad": 3,
+        "precio": 40.0
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Cacao",
+        "cantidad": 1,
+        "precio": 10.0
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Cafe",
+        "cantidad": 4,
+        "precio": 10.0
+    },
+    "004": {
+        "id": "004",
+        "nombre": "lapto",
+        "cantidad": 1,
+        "precio": 700.0
+    },
+    "005": {
+        "id": "005",
+        "nombre": "azucar",
+        "cantidad": 5,
+        "precio": 20.0
+    }
+}
